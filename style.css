@@ -56,10 +56,13 @@
     box-shadow: 10px 10px 10px 10px lightgrey;
     padding: 40px;
     border-radius: 30px;
+    
 }
 .carding
 {
     border: none;
     box-shadow: 10px 10px 10px 10px lightgrey;
     border-radius: 20px;
+    height: 700px;
+    text-align: center;
 }
