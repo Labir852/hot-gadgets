@@ -1,0 +1,65 @@
+.container
+{
+    margin-bottom: 100px;
+}
+
+.buy-now-button
+{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.925) 0%,rgba(0, 0, 0, 0.794) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+#indicator
+{
+    background-color: orange;
+}
+.option
+{
+    padding-left: 150px;
+    padding-right: 200px;
+}
+.homey
+{
+    margin-right: 50px;
+}
+#caronextprev:hover
+{
+    background-image: linear-gradient(white,grey);
+}
+.all
+{
+    margin-left: auto;
+    color: orange;
+    font-size: 1.6em;
+}
+.all:hover
+{
+    text-decoration: none;
+    color: orange;
+}
+#underline
+{
+    width: 180px;
+    height: 5px !important;
+    border-radius: 80px;
+    background-image: linear-gradient(#f18543,#f1b443);
+}
+#cat
+{
+    text-align: center;
+}
+.catimg
+{
+    box-shadow: 10px 10px 10px 10px lightgrey;
+    padding: 40px;
+    border-radius: 30px;
+}
+.carding
+{
+    border: none;
+    box-shadow: 10px 10px 10px 10px lightgrey;
+    border-radius: 20px;
+}
